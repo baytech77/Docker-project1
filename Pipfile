@@ -7,6 +7,7 @@ name = "pypi"
 django = "*"
 django-tailwind = "*"
 django-browser-reload = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
